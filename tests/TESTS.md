@@ -1,9 +1,10 @@
 # Testing
 
-The following document descibes how to perform some tests to see if the compound
- resource works as desired. For SURFsara a delayed copy to the compound resource
+The following document describes how to perform some tests to see if the compound
+ resource works as desired. For SURFsara a delayed copy to the archive resource
  is desired. This is setup in the rules and is tested.
-The resource `eudat` is a composable resource with a cache and compound resource.
+
+The resource `eudat` is a composable compound resource with a cache and archive resource.
 
 It uses a `iput` and `irepl` example to test 2 cases.
 

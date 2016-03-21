@@ -4,7 +4,7 @@ iRODS composable compound resource description @ SURFsara
 These scripts and descriptions make up the composable "compound" resource at
 SURFsara.
 
-At SURFsara the composable resource comprises off:
+At SURFsara the composable resource comprises of:
 - cache. local disk space.
 - archive. storage reachable via gridftp (dCache)
 
